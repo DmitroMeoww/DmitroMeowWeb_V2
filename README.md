@@ -1,6 +1,1 @@
-# hiii :3
-
-Welcome to my project!  
-I learning frameworks etc
-
-> Currently NOT HOSTED.
+> This is old (2025) website, currently i'm making a new one on golang and svelte
